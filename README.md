@@ -1,2 +1,3 @@
-# invisible_ds
-Design system for Invisible.ru
+# Invisible_UIkit
+
+UI-кит Invisible.ru
